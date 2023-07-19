@@ -256,6 +256,50 @@ justify-content: space-between;
 
 
 
+.forth-container {
+    display: flex;
+    gap: 120px;
+    align-items: center;
+    margin: 80px 120px 150px 120px;
+}
+
+.game-images {
+    background-color: #FFF;
+    position: relative;
+
+}
+
+.game-image-pro {
+    width: 380px;
+    height: 350px;
+}
+
+.game-image-cat {
+    width: 150px;
+    height: 170px;
+    position: absolute;
+    left: 280px;
+    top: 240px;
+}
+
+.game-contain h1 {
+    color: #0B0223;
+    font-size: 2.4rem;
+    font-weight: 800px;
+}
+.game-contain p {
+    color: #534C64;
+    padding-top: 24px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.game-contain, .play-title,
+.text-gredien {
+    color: rgb(241, 97, 186);
+
+}
+
+
 
  /* 2nd last style  */
 
